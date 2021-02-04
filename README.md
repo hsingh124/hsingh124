@@ -5,7 +5,7 @@ I'm a Penultimate year Computer Systems Engineering student at The University of
 - ⚡ **Languages**: C, C++, Java, Python, JavaScript | **Technologies**: PyTorch, NodeJs, Flutter, VueJs, ExpressJS
 - 📫 How to reach me: <br>Email: hsingh9600@gmail.com<br> LinkedIn: https://www.linkedin.com/in/singh9600/
 
-[![Harpreet's GitHub stats](https://github-readme-stats.vercel.app/api?username=hsingh124)](https://github.com/anuraghazra/github-readme-stats)
+[![Harpreet's GitHub stats](https://github-readme-stats.vercel.app/api?username=hsingh124&count_private=true&show_icons=true&theme=gruvbox)
 
 <!--
 - 💻 &nbsp; Python | Java | C++ | C | JavaScript | MATLAB
