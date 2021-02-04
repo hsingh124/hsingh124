@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Harpreet
-I'm a Final year Computer Systems Engineering student at The University of Auckland. I work on projects involving Software Development and Computer Hardware. 
+I'm a final year Computer Systems Engineering student at The University of Auckland. I work on projects involving Software Development and Computer Hardware. 
 
 - 🌱 I’m currently learning about Software Architecture and Web-Dev. 
 - ⚡ **Languages**: C, C++, Java,TypeScript, JavaScript | **Technologies**: PyTorch, NodeJs, Flutter, ReactJS, ExpressJS
