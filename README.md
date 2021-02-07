@@ -5,8 +5,10 @@ I'm a final year Computer Systems Engineering student at The University of Auckl
 - ⚡ **Languages**: C, C++, Java,TypeScript, JavaScript | **Technologies**: PyTorch, NodeJs, Flutter, ReactJS, ExpressJS
 - 📫 How to reach me: <br>Email: hsingh9600@gmail.com<br> LinkedIn: https://www.linkedin.com/in/singh9600/
 
+<!--
 ![Harpreet's GitHub stats](https://github-readme-stats.vercel.app/api?username=hsingh124&count_private=true&show_icons=true&theme=dark)\
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hsingh124&layout=compact&theme=dark&count_private=true)
+-->
 
 <!--
 - 💻 &nbsp; Python | Java | C++ | C | JavaScript | MATLAB
