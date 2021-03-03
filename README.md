@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm Harpreet
 I'm a final year Computer Systems Engineering student at The University of Auckland. I work on projects involving Software Development and Computer Hardware. 
 
-- 🌱 I’m currently learning about Software Architecture and Web-Dev. 
-- ⚡ **Languages**: C, C++, Java, TypeScript, JavaScript | **Technologies**: PyTorch, NodeJs, Flutter, ReactJS, ExpressJS
+- 🌱 I’m currently learning about Cloud Computing and Serverless technologies. 
+- ⚡ **Languages**: C, C++, Java, TypeScript, JavaScript, Python | **Technologies**: PyTorch, NodeJs, Flutter, ReactJS, React-Native, ExpressJS
 - 📫 How to reach me: <br>Email: hsingh9600@gmail.com<br> LinkedIn: https://www.linkedin.com/in/singh9600/
 
 <!--
